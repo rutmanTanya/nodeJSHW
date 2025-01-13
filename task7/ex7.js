@@ -1,4 +1,4 @@
-/*Submitted by: Tanya Rotman
+/*Submitted by: Tanya Rotman, Alex Lapin
 Class 48/6
 Exercise 7
 Work on list of users and their details
